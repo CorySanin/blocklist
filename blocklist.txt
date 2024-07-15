@@ -1,0 +1,24 @@
+! Title: Cory's Blocklist
+! Description: Filters annoying things
+! Homepage: https://github.dev/CorySanin/blocklist
+! License: https://github.com/CorySanin/blocklist/blob/master/LICENSE
+!
+! GitHub issues: https://github.com/CorySanin/blocklist/issues
+
+! --global--
+! those obnoxious "use your google account to sign in" pop ups
+||accounts.google.com/gsi/iframe/select^$all
+
+
+! --youtube--
+! those info boxes on YouTube telling you what the coronavirus is like you're a drooling moron
+www.youtube.com###clarify-box
+
+! youtube featured products
+www.youtube.com###movie_player .ytp-featured-product
+
+
+! --instagram--
+! empty div that covers photos
+www.instagram.com##._aagw
+
