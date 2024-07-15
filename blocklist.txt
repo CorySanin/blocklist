@@ -22,3 +22,6 @@ www.youtube.com###movie_player .ytp-featured-product
 ! empty div that covers photos
 www.instagram.com##._aagw
 
+! --openai--
+! empty div that covers photos
+labs.openai.com##.generated-image-overlay
