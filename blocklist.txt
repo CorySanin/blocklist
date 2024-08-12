@@ -22,6 +22,13 @@ www.youtube.com###movie_player .ytp-featured-product
 ! empty div that covers photos
 www.instagram.com##._aagw
 
+
 ! --openai--
 ! empty div that covers photos
 labs.openai.com##.generated-image-overlay
+
+
+! --usatoday--
+! weird elements and links, "must be a mistake?"
+www.usatoday.com##a.gnt_cw_sl
+www.usatoday.com##a.gnt_ar_xb
