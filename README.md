@@ -3,4 +3,4 @@ Cory's blocklist. Mostly major annoyances. Maintained here so I can sync my cust
 
 Public domain ([the Unlicense](/LICENSE))
 
-[Click here](https://raw.githubusercontent.com/CorySanin/blocklist/master/blocklist.txt) to install.
+[Click here](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CorySanin/blocklist/master/blocklist.txt&title=Cory%20Sanin%27s%20Blocklist) to install.
