@@ -8,7 +8,7 @@
 ! --global--
 ! those obnoxious "use your google account to sign in" pop ups
 ||accounts.google.com/gsi/iframe/select^$all
-*##body > div#credential_picker_container:has(iframe)
+*##div#credential_picker_container:has(iframe)
 
 
 ! --youtube--
