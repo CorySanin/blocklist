@@ -33,3 +33,6 @@ labs.openai.com##.generated-image-overlay
 ! weird elements and links, "must be a mistake?"
 www.usatoday.com##a.gnt_cw_sl
 www.usatoday.com##a.gnt_ar_xb
+
+! --tbp--
+thepiratebay.org##html>iframe
