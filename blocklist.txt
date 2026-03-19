@@ -36,3 +36,7 @@ www.usatoday.com##a.gnt_ar_xb
 
 ! --tbp--
 thepiratebay.org##html>iframe
+
+! --getadblock.com--
+! --one of the only adblockers my work allows has ads in it--
+getadblock.com##body>div
