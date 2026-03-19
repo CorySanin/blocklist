@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: Cory's Blocklist
 ! Description: Filters annoying things
 ! Homepage: https://github.dev/CorySanin/blocklist
